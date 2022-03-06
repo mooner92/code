@@ -22,7 +22,7 @@ int main()
 
 	double rSum = 0;
 	for (int i = 1; i <= 100; i++)
-		rSum += 1.0 / i;
+		rSum += 1 / i;
 	cout << "1~100의 역수의 합 = " << rSum << endl;
 
 }
